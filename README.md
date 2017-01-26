@@ -6,3 +6,8 @@
 to run use
 
 nodemon --exec "babel-node ./features/blahbla.js"
+
+
+to run debug do
+
+node debug ./"filename"  //get rid of quotes
